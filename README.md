@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my skills**.
 
-- 🌱 I’m currently learning **Unity (C#), C++, HTML/CSS and Python**.
+- 🌱 I’m currently learning **Unity (C#), C, C++, HTML/CSS and Python**.
 
 - 👯 I’m looking to collaborate on **physics-based or MMORPG game projects**.
 
