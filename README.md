@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Qaiser</h1>
-<h3 align="center">Software/Game Developer, Physics Graduate, Guitarist from London</h3>
+<h3 align="center">Intelligent Automation/RPA Developer, BSc (Hons) Physics, Musical Hobbyist</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=case-r&label=Profile%20views&color=0e75b6&style=flat" alt="case-r" /> </p>
 
-- 🔭 I’m currently working on **my skills**.
+- 🔭 Always looking for a way to improve myself, or the method in which I execute a task.
 
-- 🌱 I’m currently learning **Unity (C#), C, C++, HTML/CSS and Python** through [Harvard's CS50x Course!](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x).
+- 🌱 Tools: **Automation Anywhere, ABBYY Vantage, Microsoft Graph API, Python, alongside some familiarity with Unity (C#), C, C++, and HTML/CSS**.
 
-- 👯 I’m looking to collaborate on **physics-based or MMORPG game projects**.
+- 👯 I’m currently employed as an Intelligent Automation/RPA Developer and Consultant.
 
-- 🤝 I’m looking for help with **gaining industry experience and training**. Got a job vacancy? Contact me on [LinkedIn](https://linkedin.com/in/am-qaiser-khan)!
-
-- 👨‍💻 Interested in previous projects? Read more about my story and projects here: [Webpage Portfolio](https://qaiser-khan.notion.site/qaiser-khan/Data-Home-29ac0351a22946749d8bcaf812675ca0)
+- 🤝 Connect with me on [LinkedIn](https://linkedin.com/in/am-qaiser-khan)!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -20,7 +18,16 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  <a href="https://www.automationanywhere.com/" target="_blank" rel="noreferrer"> <img src="https://www.automationanywhere.com/sites/default/files/images/default-images/logo-aa-new.svg" alt="AA" width="110" height="80"/></a>
+  <a href="https://www.abbyy.com/vantage/" target="_blank" rel="noreferrer"> <img src="https://content.abbyy.com/-/media/project/abbyy/abbyy/header-images/logo.png?h=95&iar=0&w=249" alt="ABBYY Vantage" width="70" height="40"/></a>
+  <a href="https://h2o.ai/" target="_blank" rel="noreferrer"> <img src="https://h2o.ai/content/experience-fragments/h2o/us/en/site/header/master/_jcr_content/root/container/header_copy/logo.coreimg.svg/1715300061839/h2o-logo.svg" alt="H2O.ai" width="70" height="70"/></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=case-r&show_icons=true&locale=en&layout=compact" alt="case-r" /></p>
 
